@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d29cdc47-5ab5-387e-82a0-ddffbb1a7170",
+    "name": "kirmito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
