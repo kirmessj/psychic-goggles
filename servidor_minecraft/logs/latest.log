@@ -85,3 +85,12 @@
 [18:06:08] [Server thread/INFO]: tilinwaza1 fell from a high place
 [18:11:04] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/14841, l='ServerLevel[world]', x=-1822.14, y=65.04, z=336.50]
 [18:18:40] [Server thread/INFO]: [Not Secure] <tilinwaza1> -1290 52
+[18:23:14] [Server thread/INFO]: havock was slain by tilinwaza1
+[18:23:37] [Server thread/INFO]: tilinwaza1 was slain by havock
+[18:23:41] [Server thread/INFO]: havock was slain by tilinwaza1
+[18:24:27] [Server thread/INFO]: havock was slain by tilinwaza1
+[18:24:58] [Server thread/INFO]: havock fell from a high place
+[18:25:07] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
+[18:25:07] [Server thread/INFO]: tilinwaza1 left the game
+[18:25:20] [Server thread/INFO]: havock lost connection: Disconnected
+[18:25:20] [Server thread/INFO]: havock left the game
