@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-05-25 05:43:27 +0000",
       "minecraft:beach": "2025-05-25 05:51:46 +0000",
       "minecraft:forest": "2025-05-25 05:38:44 +0000",
+      "minecraft:sparse_jungle": "2025-05-25 07:28:15 +0000",
       "minecraft:sunflower_plains": "2025-05-25 05:43:52 +0000",
       "minecraft:cherry_grove": "2025-05-25 07:03:39 +0000",
       "minecraft:river": "2025-05-25 05:41:19 +0000",
@@ -543,7 +544,8 @@
       "minecraft:skeleton": "2025-05-25 06:17:32 +0000",
       "minecraft:witch": "2025-05-25 05:52:24 +0000",
       "minecraft:spider": "2025-05-25 05:42:59 +0000",
-      "minecraft:zombie": "2025-05-25 06:16:53 +0000"
+      "minecraft:zombie": "2025-05-25 06:16:53 +0000",
+      "minecraft:creeper": "2025-05-25 07:27:12 +0000"
     },
     "done": false
   },
@@ -1216,6 +1218,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-25 06:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-25 07:27:08 +0000"
     },
     "done": true
   },
