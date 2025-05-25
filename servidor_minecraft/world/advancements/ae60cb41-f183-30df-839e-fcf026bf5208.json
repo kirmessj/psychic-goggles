@@ -11,10 +11,11 @@
       "minecraft:beach": "2025-05-25 06:23:20 +0000",
       "minecraft:forest": "2025-05-25 05:37:44 +0000",
       "minecraft:sparse_jungle": "2025-05-25 06:20:01 +0000",
-      "minecraft:jungle": "2025-05-25 06:31:38 +0000",
-      "minecraft:sunflower_plains": "2025-05-25 05:47:04 +0000",
       "minecraft:river": "2025-05-25 05:40:24 +0000",
       "minecraft:lukewarm_ocean": "2025-05-25 06:23:54 +0000",
+      "minecraft:jungle": "2025-05-25 06:31:38 +0000",
+      "minecraft:sunflower_plains": "2025-05-25 05:47:04 +0000",
+      "minecraft:savanna": "2025-05-25 06:34:36 +0000",
       "minecraft:bamboo_jungle": "2025-05-25 06:20:42 +0000",
       "minecraft:plains": "2025-05-23 01:16:56 +0000",
       "minecraft:warm_ocean": "2025-05-25 06:25:57 +0000",
@@ -1242,15 +1243,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-25 06:42:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 06:27:50 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-25 06:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 06:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-25 06:40:21 +0000"
     },
     "done": true
   },
@@ -1272,6 +1291,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-25 06:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 06:27:50 +0000"
@@ -1281,6 +1306,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-25 06:40:21 +0000"
     },
     "done": true
   },
@@ -1371,6 +1402,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-25 06:40:21 +0000"
     },
     "done": true
   },
