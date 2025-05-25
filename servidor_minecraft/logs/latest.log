@@ -94,3 +94,15 @@
 [18:25:07] [Server thread/INFO]: tilinwaza1 left the game
 [18:25:20] [Server thread/INFO]: havock lost connection: Disconnected
 [18:25:20] [Server thread/INFO]: havock left the game
+[18:58:24] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[18:58:29] [Server thread/INFO]: Stopping the server
+[18:58:29] [Server thread/INFO]: Stopping server
+[18:58:29] [Server thread/INFO]: Saving players
+[18:58:29] [Server thread/INFO]: Saving worlds
+[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
