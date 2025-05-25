@@ -12,10 +12,11 @@
       "minecraft:dark_forest": "2025-05-25 16:44:35 +0000",
       "minecraft:forest": "2025-05-25 05:38:44 +0000",
       "minecraft:sparse_jungle": "2025-05-25 07:28:15 +0000",
+      "minecraft:river": "2025-05-25 05:41:19 +0000",
+      "minecraft:dripstone_caves": "2025-05-25 17:06:44 +0000",
       "minecraft:jungle": "2025-05-25 16:38:31 +0000",
       "minecraft:sunflower_plains": "2025-05-25 05:43:52 +0000",
       "minecraft:cherry_grove": "2025-05-25 07:03:39 +0000",
-      "minecraft:river": "2025-05-25 05:41:19 +0000",
       "minecraft:birch_forest": "2025-05-25 16:47:06 +0000",
       "minecraft:savanna": "2025-05-25 07:06:55 +0000",
       "minecraft:plains": "2025-05-25 05:35:44 +0000"
@@ -314,7 +315,9 @@
     "criteria": {
       "cooked_porkchop": "2025-05-25 05:49:17 +0000",
       "mutton": "2025-05-25 16:35:45 +0000",
+      "apple": "2025-05-25 17:05:47 +0000",
       "cooked_chicken": "2025-05-25 06:38:34 +0000",
+      "rotten_flesh": "2025-05-25 16:55:27 +0000",
       "cooked_mutton": "2025-05-25 05:50:41 +0000",
       "porkchop": "2025-05-25 05:40:43 +0000"
     },
@@ -1645,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-25 16:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-25 16:44:46 +0000"
@@ -1669,12 +1678,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-25 16:44:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-25 16:44:46 +0000"
@@ -1696,6 +1699,30 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-25 16:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-25 16:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 16:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 16:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 16:57:45 +0000"
     },
     "done": true
   },
