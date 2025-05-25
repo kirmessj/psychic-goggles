@@ -15,6 +15,7 @@
       "minecraft:lukewarm_ocean": "2025-05-25 06:23:54 +0000",
       "minecraft:jungle": "2025-05-25 06:31:38 +0000",
       "minecraft:sunflower_plains": "2025-05-25 05:47:04 +0000",
+      "minecraft:birch_forest": "2025-05-25 07:23:50 +0000",
       "minecraft:savanna": "2025-05-25 06:34:36 +0000",
       "minecraft:bamboo_jungle": "2025-05-25 06:20:42 +0000",
       "minecraft:plains": "2025-05-23 01:16:56 +0000",
@@ -1452,6 +1453,36 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-25 07:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 07:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-25 07:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-05-25 07:14:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-25 07:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-25 07:20:26 +0000"
     },
     "done": true
   },

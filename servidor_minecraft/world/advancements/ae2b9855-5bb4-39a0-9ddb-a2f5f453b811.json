@@ -13,6 +13,7 @@
       "minecraft:sunflower_plains": "2025-05-25 05:43:52 +0000",
       "minecraft:cherry_grove": "2025-05-25 07:03:39 +0000",
       "minecraft:river": "2025-05-25 05:41:19 +0000",
+      "minecraft:savanna": "2025-05-25 07:06:55 +0000",
       "minecraft:plains": "2025-05-25 05:35:44 +0000"
     },
     "done": false
@@ -954,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-25 07:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-25 06:40:48 +0000"
@@ -1248,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-25 07:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 06:19:53 +0000"
@@ -1263,6 +1276,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-25 06:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-25 07:11:57 +0000"
     },
     "done": true
   },
@@ -1311,6 +1330,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-05-25 07:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-25 07:11:57 +0000"
     },
     "done": true
   },
@@ -1425,6 +1450,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-25 06:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-25 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-25 07:09:58 +0000"
     },
     "done": true
   },
@@ -1571,6 +1608,12 @@
       "has_iron_ingot": "2025-05-25 06:16:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-05-25 07:17:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
