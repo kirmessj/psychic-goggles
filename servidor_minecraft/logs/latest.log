@@ -1,31 +1,26 @@
-[05:33:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:33:55] [ServerMain/INFO]: Loaded 1290 recipes
-[05:33:55] [ServerMain/INFO]: Loaded 1399 advancements
-[05:33:56] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[05:33:56] [Server thread/INFO]: Loading properties
-[05:33:56] [Server thread/INFO]: Default game type: SURVIVAL
-[05:33:56] [Server thread/INFO]: Generating keypair
-[05:33:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:33:56] [Server thread/INFO]: Using epoll channel type
-[05:33:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:33:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:33:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:33:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:33:56] [Server thread/INFO]: Preparing level "world"
-[05:34:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:34:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:34:02] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[05:34:02] [Server thread/INFO]: Time elapsed: 560 ms
-[05:34:02] [Server thread/INFO]: Done (5.956s)! For help, type "help"
-[05:34:09] [Server thread/INFO]: tilinwaza1[/127.173.28.154:43235] logged in with entity id 48 at (131.9694646175102, -51.0, -14.435056909283762)
-[05:34:09] [Server thread/INFO]: tilinwaza1 joined the game
-[05:35:17] [Server thread/INFO]: tilinwaza1 tried to swim in lava
-[05:35:43] [Server thread/INFO]: havock[/127.173.28.154:37229] logged in with entity id 534 at (-84.5, 83.0, -188.5)
-[05:35:43] [Server thread/INFO]: havock joined the game
-[05:36:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:36:09] [Server thread/INFO]: lis<--[HERE]
-[05:36:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:36:15] [Server thread/INFO]: lst<--[HERE]
-[05:36:47] [Server thread/INFO]: havock has made the advancement [Getting an Upgrade]
-[05:38:00] [Server thread/INFO]: havock has made the advancement [Stone Age]
-[05:42:59] [Server thread/INFO]: havock has made the advancement [Monster Hunter]
+[06:13:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:13:54] [ServerMain/INFO]: Loaded 1290 recipes
+[06:13:55] [ServerMain/INFO]: Loaded 1399 advancements
+[06:13:55] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[06:13:55] [Server thread/INFO]: Loading properties
+[06:13:55] [Server thread/INFO]: Default game type: SURVIVAL
+[06:13:55] [Server thread/INFO]: Generating keypair
+[06:13:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:13:55] [Server thread/INFO]: Using epoll channel type
+[06:13:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:13:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:13:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:13:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:13:55] [Server thread/INFO]: Preparing level "world"
+[06:13:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:13:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:13:58] [Server thread/INFO]: Time elapsed: 409 ms
+[06:13:58] [Server thread/INFO]: Done (2.935s)! For help, type "help"
+[06:14:07] [Server thread/INFO]: tilinwaza1[/127.173.28.154:53393] logged in with entity id 6 at (-788.027158229868, 66.0, -410.1352073282879)
+[06:14:07] [Server thread/INFO]: tilinwaza1 joined the game
+[06:14:14] [Server thread/INFO]: havock (/127.173.28.154:57357) lost connection: Disconnected
+[06:14:15] [Server thread/INFO]: havock[/127.173.28.154:32881] logged in with entity id 307 at (-686.3829061999968, 7.0, -643.6999999880791)
+[06:14:15] [Server thread/INFO]: havock joined the game
+[06:16:15] [Server thread/INFO]: havock has made the advancement [Acquire Hardware]
+[06:16:33] [Server thread/INFO]: havock has made the advancement [Suit Up]
+[06:20:00] [Server thread/INFO]: havock has made the advancement [Not Today, Thank You]
