@@ -1,80 +1,33 @@
-[06:13:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:13:54] [ServerMain/INFO]: Loaded 1290 recipes
-[06:13:55] [ServerMain/INFO]: Loaded 1399 advancements
-[06:13:55] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[06:13:55] [Server thread/INFO]: Loading properties
-[06:13:55] [Server thread/INFO]: Default game type: SURVIVAL
-[06:13:55] [Server thread/INFO]: Generating keypair
-[06:13:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:13:55] [Server thread/INFO]: Using epoll channel type
-[06:13:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:13:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:13:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:13:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:13:55] [Server thread/INFO]: Preparing level "world"
-[06:13:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:13:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[06:13:58] [Server thread/INFO]: Time elapsed: 409 ms
-[06:13:58] [Server thread/INFO]: Done (2.935s)! For help, type "help"
-[06:14:07] [Server thread/INFO]: tilinwaza1[/127.173.28.154:53393] logged in with entity id 6 at (-788.027158229868, 66.0, -410.1352073282879)
-[06:14:07] [Server thread/INFO]: tilinwaza1 joined the game
-[06:14:14] [Server thread/INFO]: havock (/127.173.28.154:57357) lost connection: Disconnected
-[06:14:15] [Server thread/INFO]: havock[/127.173.28.154:32881] logged in with entity id 307 at (-686.3829061999968, 7.0, -643.6999999880791)
-[06:14:15] [Server thread/INFO]: havock joined the game
-[06:16:15] [Server thread/INFO]: havock has made the advancement [Acquire Hardware]
-[06:16:33] [Server thread/INFO]: havock has made the advancement [Suit Up]
-[06:20:00] [Server thread/INFO]: havock has made the advancement [Not Today, Thank You]
-[06:25:27] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 0.25892134858065674
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 0.38271104870761974
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 0.6187496078335926
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 0.7197229151508964
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 0.8932689408987926
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 1.1438565830956122
-[06:25:28] [Server thread/WARN]: Oak Boat (vehicle of tilinwaza1) moved wrongly! 1.576218780145382
-[06:29:53] [Server thread/INFO]: havock has made the advancement [Isn't It Iron Pick]
-[06:35:44] [Server thread/INFO]: havock has made the advancement [Diamonds!]
-[06:40:21] [Server thread/INFO]: tilinwaza1 has made the advancement [Ice Bucket Challenge]
-[06:42:57] [Server thread/INFO]: tilinwaza1 has made the advancement [We Need to Go Deeper]
-[06:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
-[06:54:50] [Server thread/INFO]: tilinwaza1 was slain by Magma Cube
-[06:56:35] [Server thread/INFO]: havock has made the advancement [We Need to Go Deeper]
-[06:59:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-717, y=64, z=80} jd{x=-717, y=62, z=79}
-[07:01:46] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[07:01:46] [Server thread/INFO]: tilinwaza1 left the game
-[07:01:54] [Server thread/INFO]: tilinwaza1[/127.173.28.154:41327] logged in with entity id 22405 at (-355.7107894519052, 116.0, -192.29109790586904)
-[07:01:54] [Server thread/INFO]: tilinwaza1 joined the game
-[07:02:54] [Server thread/INFO]: havock has made the advancement [Best Friends Forever]
-[07:08:48] [Server thread/INFO]: [Not Secure] <havock> -859
-[07:08:54] [Server thread/INFO]: [Not Secure] <havock> 355
-[07:09:08] [Server thread/WARN]: Horse (vehicle of havock) moved wrongly! 0.41375115175026167
-[07:09:08] [Server thread/WARN]: Horse (vehicle of havock) moved wrongly! 0.6584868250410523
-[07:09:08] [Server thread/WARN]: Horse (vehicle of havock) moved wrongly! 1.0957055539738008
-[07:09:09] [Server thread/WARN]: Horse (vehicle of havock) moved wrongly! 1.3296525786246889
-[07:12:45] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[07:12:45] [Server thread/INFO]: tilinwaza1 left the game
-[07:12:59] [Server thread/INFO]: tilinwaza1[/127.173.28.154:43837] logged in with entity id 31059 at (-1361.2496916681403, 73.0, -514.1172404213885)
-[07:12:59] [Server thread/INFO]: tilinwaza1 joined the game
-[07:13:00] [Server thread/INFO]: [Not Secure] <havock> -859 355
-[07:14:23] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! 3.8907898891263812,0.0,-9.259832500159831
-[07:14:23] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! 4.085337231577228,0.0,-9.722842800454515
-[07:14:23] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! 4.279884574153698,0.0,-10.185853101048053
-[07:14:41] [Server thread/INFO]: tilinwaza1 has made the advancement [Best Friends Forever]
-[07:15:01] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! -6.626830253134017,1.0,-7.49446846309948
-[07:15:01] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! -6.97654549896663,0.9231679985046384,-7.854918562954655
-[07:15:01] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! -7.179937657686651,0.7725465413369932,-8.064539085404228
-[07:15:01] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! -7.377589293305277,0.5510576895623984,-8.268229533329073
-[07:15:01] [Server thread/WARN]: Horse (vehicle of havock) moved too quickly! -7.570121530274719,0.26150779068264285,-8.466631540640353
-[07:25:42] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[07:25:42] [Server thread/INFO]: tilinwaza1 left the game
-[07:25:50] [Server thread/INFO]: tilinwaza1[/127.173.28.154:52191] logged in with entity id 41239 at (-1192.4294719502154, 69.0, 140.45847249799596)
-[07:25:50] [Server thread/INFO]: tilinwaza1 joined the game
-[07:25:59] [Server thread/INFO]: [Not Secure] <havock> tgciojdn
-[07:26:12] [Server thread/INFO]: [Not Secure] <havock> -1348 -58
-[07:27:08] [Server thread/INFO]: havock has made the advancement [Take Aim]
-[07:27:54] [Server thread/INFO]: havock was slain by tilinwaza1
-[07:28:40] [Server thread/INFO]: havock was slain by Wolf
-[07:29:08] [Server thread/INFO]: tilinwaza1 was slain by havock
-[07:29:13] [Server thread/INFO]: havock lost connection: Disconnected
-[07:29:13] [Server thread/INFO]: havock left the game
-[07:29:25] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[07:29:25] [Server thread/INFO]: tilinwaza1 left the game
+[16:35:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:35:09] [ServerMain/INFO]: Loaded 1290 recipes
+[16:35:09] [ServerMain/INFO]: Loaded 1399 advancements
+[16:35:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:35:10] [Server thread/INFO]: Loading properties
+[16:35:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:35:10] [Server thread/INFO]: Generating keypair
+[16:35:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:35:10] [Server thread/INFO]: Using epoll channel type
+[16:35:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:35:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:35:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:35:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:35:10] [Server thread/INFO]: Preparing level "world"
+[16:35:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:35:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:35:15] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[16:35:15] [Server thread/INFO]: Time elapsed: 805 ms
+[16:35:15] [Server thread/INFO]: Done (4.542s)! For help, type "help"
+[16:35:22] [Server thread/INFO]: tilinwaza1 (/127.173.28.154:42155) lost connection: Disconnected
+[16:35:24] [Server thread/INFO]: tilinwaza1[/127.173.28.154:53119] logged in with entity id 7 at (-1343.9048991072566, 63.0, -78.30000001192093)
+[16:35:24] [Server thread/INFO]: tilinwaza1 joined the game
+[16:35:24] [Server thread/INFO]: havock[/127.173.28.154:51523] logged in with entity id 8 at (-1337.1626646997574, 64.0, -105.29579913076024)
+[16:35:24] [Server thread/INFO]: havock joined the game
+[16:36:29] [Server thread/INFO]: havock lost connection: Disconnected
+[16:36:29] [Server thread/INFO]: havock left the game
+[16:36:44] [Server thread/INFO]: havock[/127.173.28.154:43597] logged in with entity id 546 at (-1352.8284574267714, 64.0, -49.85959975025955)
+[16:36:44] [Server thread/INFO]: havock joined the game
+[16:36:59] [Server thread/INFO]: havock was slain by tilinwaza1
+[16:50:37] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
+[16:50:37] [Server thread/INFO]: tilinwaza1 left the game
+[16:51:21] [Server thread/INFO]: tilinwaza1[/127.173.28.154:60689] logged in with entity id 3566 at (-1288.2520970032074, 88.0, 54.394262938560175)
+[16:51:21] [Server thread/INFO]: tilinwaza1 joined the game
