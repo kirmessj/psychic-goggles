@@ -1,108 +1,26 @@
-[17:49:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:49:38] [ServerMain/INFO]: Loaded 1290 recipes
-[17:49:38] [ServerMain/INFO]: Loaded 1399 advancements
-[17:49:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:49:39] [Server thread/INFO]: Loading properties
-[17:49:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:49:39] [Server thread/INFO]: Generating keypair
-[17:49:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:49:39] [Server thread/INFO]: Using epoll channel type
-[17:49:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:49:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:49:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:49:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:49:39] [Server thread/INFO]: Preparing level "world"
-[17:49:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:49:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:49:42] [Server thread/INFO]: Time elapsed: 483 ms
-[17:49:42] [Server thread/INFO]: Done (3.573s)! For help, type "help"
-[17:49:57] [Server thread/INFO]: havock[/127.173.28.154:59873] logged in with entity id 7 at (-1836.3176528714537, -16.0, 90.73945196006814)
-[17:49:57] [Server thread/INFO]: havock joined the game
-[17:49:59] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/188, l='ServerLevel[world]', x=-1950.68, y=132.14, z=-16.44]
-[17:49:59] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/189, l='ServerLevel[world]', x=-1950.43, y=132.98, z=-17.24]
-[17:49:59] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/190, l='ServerLevel[world]', x=-1949.77, y=133.71, z=-16.67]
-[17:49:59] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/191, l='ServerLevel[world]', x=-1949.79, y=133.00, z=-16.12]
-[17:49:59] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/192, l='ServerLevel[world]', x=-1949.75, y=131.77, z=-16.03]
-[17:49:59] [Server thread/INFO]: tilinwaza1[/127.173.28.154:52775] logged in with entity id 205 at (-1338.0693842645194, 70.23152379758702, 41.96152836080925)
-[17:49:59] [Server thread/INFO]: tilinwaza1 joined the game
-[17:50:03] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/406, l='ServerLevel[world]', x=-1952.09, y=128.40, z=-16.34]
-[17:50:06] [Server thread/WARN]: UUID of added entity already exists: cfu['Parrot'/456, l='ServerLevel[world]', x=-1666.32, y=79.98, z=-12.81]
-[17:51:44] [Server thread/INFO]: HunterXdxd[/127.216.180.115:41143] logged in with entity id 1212 at (408.2043601385072, 69.0, -1599.6458064010546)
-[17:51:44] [Server thread/INFO]: HunterXdxd joined the game
-[17:51:56] [Server thread/INFO]: [Not Secure] <tilinwaza1> el busta es gei
-[17:52:52] [Server thread/INFO]: [Not Secure] <HunterXdxd> duermannnn
-[17:53:03] [Server thread/INFO]: [Not Secure] <havock> zzzzz
-[17:53:05] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[17:53:05] [Server thread/INFO]: tilinwaza1 left the game
-[17:53:07] [Server thread/INFO]: havock lost connection: Disconnected
-[17:53:07] [Server thread/INFO]: havock left the game
-[17:53:13] [Server thread/INFO]: havock[/127.173.28.154:47377] logged in with entity id 2491 at (-1763.3540950287825, -33.0, -62.48212060665018)
-[17:53:13] [Server thread/INFO]: havock joined the game
-[17:53:13] [Server thread/INFO]: tilinwaza1[/127.173.28.154:37489] logged in with entity id 2568 at (-1280.699999988079, 40.0, 56.570276400902195)
-[17:53:13] [Server thread/INFO]: tilinwaza1 joined the game
-[17:53:20] [Server thread/INFO]: [Not Secure] <tilinwaza1> el navuls entrara
-[17:53:24] [Server thread/INFO]: [Not Secure] <HunterXdxd> shishe
-[17:53:31] [Server thread/INFO]: [Not Secure] <HunterXdxd> y yo me ire
-[17:53:31] [Server thread/INFO]: [Not Secure] <tilinwaza1> hacete hombre
-[17:53:33] [Server thread/INFO]: [Not Secure] <tilinwaza1> porq
-[17:53:35] [Server thread/INFO]: [Not Secure] <HunterXdxd> shi
-[17:53:43] [Server thread/INFO]: [Not Secure] <HunterXdxd> debo ir a la feria :v
-[17:53:59] [Server thread/INFO]: [Not Secure] <tilinwaza1> cmo autista
-[17:54:04] [Server thread/INFO]: [Not Secure] <HunterXdxd> ño
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=289, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=289, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=289, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=289, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=291, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=291, y=64, z=-1887} jd{x=291, y=62, z=-1887}
-[17:55:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=292, y=64, z=-1887} jd{x=293, y=62, z=-1887}
-[17:55:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=294, y=64, z=-1888} jd{x=295, y=62, z=-1888}
-[17:55:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=319, y=64, z=-1967} jd{x=320, y=62, z=-1968}
-[17:55:56] [Server thread/INFO]: tilinwaza1 has made the advancement [The Cutest Predator]
-[17:58:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=590, y=65, z=-2033} jd{x=590, y=62, z=-2034}
-[17:58:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=590, y=64, z=-2032} jd{x=590, y=62, z=-2034}
-[17:58:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=590, y=65, z=-2032} jd{x=590, y=62, z=-2034}
-[18:00:25] [Server thread/INFO]: [Not Secure] <HunterXdxd> encontre una aldea :v
-[18:00:35] [Server thread/INFO]: [Not Secure] <tilinwaza1> nosotros vivimos al lado d una
-[18:00:41] [Server thread/INFO]: [Not Secure] <HunterXdxd> ustedes po
-[18:00:43] [Server thread/INFO]: [Not Secure] <HunterXdxd> yono
-[18:00:49] [Server thread/INFO]: [Not Secure] <tilinwaza1> tremendo pobre
-[18:00:58] [Server thread/INFO]: [Not Secure] <HunterXdxd> :c
-[18:04:30] [Server thread/INFO]: [Not Secure] <HunterXdxd> duerman
-[18:04:37] [Server thread/INFO]: [Not Secure] <HunterXdxd> plis
-[18:04:38] [Server thread/INFO]: [Not Secure] <tilinwaza1> no
-[18:04:42] [Server thread/INFO]: [Not Secure] <HunterXdxd> :CCCC
-[18:04:43] [Server thread/INFO]: havock lost connection: Disconnected
-[18:04:43] [Server thread/INFO]: havock left the game
-[18:04:45] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[18:04:45] [Server thread/INFO]: tilinwaza1 left the game
-[18:04:51] [Server thread/INFO]: tilinwaza1[/127.173.28.154:59521] logged in with entity id 11319 at (-1021.8688738410764, -20.50479912299409, 318.39980241639154)
-[18:04:51] [Server thread/INFO]: tilinwaza1 joined the game
-[18:04:53] [Server thread/INFO]: havock[/127.173.28.154:40291] logged in with entity id 11596 at (-1730.5557673621047, -50.0, 36.91905894300489)
-[18:04:53] [Server thread/INFO]: havock joined the game
-[18:05:44] [Server thread/INFO]: HunterXdxd lost connection: Disconnected
-[18:05:44] [Server thread/INFO]: HunterXdxd left the game
-[18:06:08] [Server thread/INFO]: tilinwaza1 fell from a high place
-[18:11:04] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/14841, l='ServerLevel[world]', x=-1822.14, y=65.04, z=336.50]
-[18:18:40] [Server thread/INFO]: [Not Secure] <tilinwaza1> -1290 52
-[18:23:14] [Server thread/INFO]: havock was slain by tilinwaza1
-[18:23:37] [Server thread/INFO]: tilinwaza1 was slain by havock
-[18:23:41] [Server thread/INFO]: havock was slain by tilinwaza1
-[18:24:27] [Server thread/INFO]: havock was slain by tilinwaza1
-[18:24:58] [Server thread/INFO]: havock fell from a high place
-[18:25:07] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[18:25:07] [Server thread/INFO]: tilinwaza1 left the game
-[18:25:20] [Server thread/INFO]: havock lost connection: Disconnected
-[18:25:20] [Server thread/INFO]: havock left the game
-[18:58:24] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[18:58:29] [Server thread/INFO]: Stopping the server
-[18:58:29] [Server thread/INFO]: Stopping server
-[18:58:29] [Server thread/INFO]: Saving players
-[18:58:29] [Server thread/INFO]: Saving worlds
-[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:04:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:04:22] [ServerMain/INFO]: Loaded 1290 recipes
+[21:04:22] [ServerMain/INFO]: Loaded 1399 advancements
+[21:04:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:04:23] [Server thread/INFO]: Loading properties
+[21:04:23] [Server thread/INFO]: Default game type: SURVIVAL
+[21:04:23] [Server thread/INFO]: Generating keypair
+[21:04:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:04:24] [Server thread/INFO]: Using epoll channel type
+[21:04:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:04:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:04:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:04:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:04:24] [Server thread/INFO]: Preparing level "world"
+[21:04:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:04:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:04:27] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:04:27] [Server thread/INFO]: Time elapsed: 596 ms
+[21:04:27] [Server thread/INFO]: Done (3.230s)! For help, type "help"
+[21:05:37] [Server thread/INFO]: tilinwaza1[/127.173.28.154:59343] logged in with entity id 7 at (-1274.0356847854607, 17.0625, 57.30000001192093)
+[21:05:37] [Server thread/INFO]: tilinwaza1 joined the game
+[21:07:33] [Server thread/INFO]: HunterXdxd[/127.216.180.115:40339] logged in with entity id 498 at (861.7462589901209, 62.0, -2048.9754305656147)
+[21:07:33] [Server thread/INFO]: HunterXdxd joined the game
+[21:08:03] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
+[21:08:03] [Server thread/INFO]: tilinwaza1 left the game
+[21:08:11] [Server thread/INFO]: [Not Secure] <HunterXdxd> XD
