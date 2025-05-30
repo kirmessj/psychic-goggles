@@ -1,35 +1,21 @@
-[21:04:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:04:22] [ServerMain/INFO]: Loaded 1290 recipes
-[21:04:22] [ServerMain/INFO]: Loaded 1399 advancements
-[21:04:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:04:23] [Server thread/INFO]: Loading properties
-[21:04:23] [Server thread/INFO]: Default game type: SURVIVAL
-[21:04:23] [Server thread/INFO]: Generating keypair
-[21:04:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:04:24] [Server thread/INFO]: Using epoll channel type
-[21:04:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:04:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:04:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:04:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:04:24] [Server thread/INFO]: Preparing level "world"
-[21:04:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:04:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:27] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[21:04:27] [Server thread/INFO]: Time elapsed: 596 ms
-[21:04:27] [Server thread/INFO]: Done (3.230s)! For help, type "help"
-[21:05:37] [Server thread/INFO]: tilinwaza1[/127.173.28.154:59343] logged in with entity id 7 at (-1274.0356847854607, 17.0625, 57.30000001192093)
-[21:05:37] [Server thread/INFO]: tilinwaza1 joined the game
-[21:07:33] [Server thread/INFO]: HunterXdxd[/127.216.180.115:40339] logged in with entity id 498 at (861.7462589901209, 62.0, -2048.9754305656147)
-[21:07:33] [Server thread/INFO]: HunterXdxd joined the game
-[21:08:03] [Server thread/INFO]: tilinwaza1 lost connection: Disconnected
-[21:08:03] [Server thread/INFO]: tilinwaza1 left the game
-[21:08:11] [Server thread/INFO]: [Not Secure] <HunterXdxd> XD
-[21:23:43] [Server thread/INFO]: HunterXdxd has made the advancement [A Seedy Place]
-[21:39:28] [Server thread/INFO]: HunterXdxd lost connection: Disconnected
-[21:39:28] [Server thread/INFO]: HunterXdxd left the game
-[21:50:12] [Server thread/INFO]: kirmito[/127.85.24.63:57213] logged in with entity id 6444 at (-90.69999998807907, 87.3790698245735, -188.26253352931164)
-[21:50:12] [Server thread/INFO]: kirmito joined the game
-[21:51:01] [Server thread/INFO]: [Not Secure] <kirmito> asd
-[21:54:19] [Server thread/INFO]: kirmito has made the advancement [Isn't It Iron Pick]
-[21:54:49] [Server thread/INFO]: kirmito lost connection: Disconnected
-[21:54:49] [Server thread/INFO]: kirmito left the game
+[22:10:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:10:11] [ServerMain/INFO]: Loaded 1290 recipes
+[22:10:11] [ServerMain/INFO]: Loaded 1399 advancements
+[22:10:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:10:12] [Server thread/INFO]: Loading properties
+[22:10:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:12] [Server thread/INFO]: Generating keypair
+[22:10:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:10:12] [Server thread/INFO]: Using epoll channel type
+[22:10:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:10:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:10:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:10:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:10:12] [Server thread/INFO]: Preparing level "world"
+[22:10:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:10:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:10:16] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[22:10:16] [Server thread/INFO]: Time elapsed: 877 ms
+[22:10:16] [Server thread/INFO]: Done (4.003s)! For help, type "help"
+[22:19:41] [Server thread/INFO]: kirmito[/127.118.130.42:40953] logged in with entity id 26 at (-199.88379818808343, 108.0, -156.4581833211019)
+[22:19:41] [Server thread/INFO]: kirmito joined the game
