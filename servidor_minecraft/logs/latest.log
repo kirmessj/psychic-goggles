@@ -20,3 +20,6 @@
 [22:19:41] [Server thread/INFO]: kirmito[/127.118.130.42:40953] logged in with entity id 26 at (-199.88379818808343, 108.0, -156.4581833211019)
 [22:19:41] [Server thread/INFO]: kirmito joined the game
 [22:24:29] [Server thread/INFO]: [kirmito: Set the time to 1000]
+[22:30:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-604, y=89, z=-142} jd{x=-604, y=87, z=-143}
+[22:34:30] [Server thread/INFO]: kirmito lost connection: Disconnected
+[22:34:30] [Server thread/INFO]: kirmito left the game
